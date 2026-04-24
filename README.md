@@ -27,6 +27,5 @@ This project is an interactive sales dashboard built using Microsoft Excel to an
 * Sales dropped significantly in 2025
 * UPI & Credit Card dominate transactions
 
-##  Dashboard Preview
 
 
